@@ -1,0 +1,18 @@
+body {
+padding: 2em;
+}
+.content {
+text-align: left;
+margin-left: 1em;
+}
+
+p.date {
+text-align: left;
+margin-bottom: .5em;
+}
+
+h3 {
+}
+
+p.desc {
+margin-bottom: 1em;
